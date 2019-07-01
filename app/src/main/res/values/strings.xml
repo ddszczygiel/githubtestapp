@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GithubMvp</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="btn_text_add_repository">Add repository</string>
+    <string name="btn_text_logout">Logout</string>
+    <string name="progress_dialog_text">Please wait</string>
+    <string name="add_repo_dialog_title">Enter new repository name</string>
+    <string name="add_repo_dialog_negative_btn_text">Cancel</string>
+    <string name="add_repo_dialog_positive_btn_text">Add repo</string>
+    <string name="invalid_repo_name_text">Enter valid repository name</string>
+    <string name="add_repository_failure_text">Error occurred while adding new repository</string>
+    <string name="add_repository_success_text">Successfully added new repository</string>
+    <string name="delete_repository_success_text">Successfully deleted repository</string>
+    <string name="delete_repository_failure_text">Could not remove repository</string>
+    <string name="delete_repository_dialog_title">Confirm action</string>
+    <string name="delete_repository_dialog_message">Do you really want to remove repository: %s</string>
+    <string name="btn_text_yes">Yes</string>
+    <string name="btn_text_no">No</string>
+
+</resources>
